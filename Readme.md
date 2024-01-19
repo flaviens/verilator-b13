@@ -1,6 +1,6 @@
 # Bug in Verilator that leads to a wrong runtime value.
 
-To reproduce, please have Verilator installed and run:
+To reproduce, please have Verilator installed (tested with `Verilator 5.021 devel rev v5.020-31-g54922c036`) and run:
 ```
 bash run.sh
 ```
